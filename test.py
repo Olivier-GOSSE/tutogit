@@ -4,3 +4,6 @@ import matplotlib.pyplot as plt
 
 print('Hello world')
 print('My name is Olivier')
+
+# Ajout du fichier JavaScript
+
